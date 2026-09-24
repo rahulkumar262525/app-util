@@ -1,0 +1,26 @@
+{
+  "name": "rahul2525/app-util",
+  "version": "1.0.8",
+  "description": "Utility functions including logger for your app",
+  "main": "util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1043.0",
+    "@aws-sdk/s3-request-presigner": "^3.1043.0",
+    "@phonepe-pg/pg-sdk-node": "^2.0.6",
+    "axios": "^1.7.8",
+    "crypto": "^1.0.1",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "winston": "^3.15.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulkumar262525/app-util.git"
+  }
+}
